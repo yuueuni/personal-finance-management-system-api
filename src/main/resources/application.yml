@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: personal-finance-management-system-api
+
